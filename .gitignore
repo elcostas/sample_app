@@ -17,3 +17,6 @@
 
 #Ignore the secret_token.rb
 /config/initializers/secret_token.rb
+
+#ignore the database configuration
+/config/database.yml
